@@ -1,0 +1,5 @@
+14:07:29 - INFO - b'[29/08/2024 14:07:29] --- Open the serial port COM8 ---> SUCCESS'
+14:08:40 - INFO - b'[29/08/2024 14:08:40] --- Open the serial port COM11 ---> SUCCESS'
+14:08:42 - INFO - b'[29/08/2024 14:08:42] --- Open the serial port COM7 ---> SUCCESS'
+14:08:42 - INFO - b'[29/08/2024 14:08:42] --- Failed to open the serial port COM4 ---> ERROR'
+14:08:58 - INFO - b'Close Program'
