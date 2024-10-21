@@ -1,0 +1,13 @@
+241018009-0003-7887-V00002
+
+1. Nhập thông tin của mã hộp
+241018009-0003-7887-V00001
+sẽ in được nhiều nhất là 33 mã LOT tương ứng với mã hộp 
+kí tự cuối 1-9 (9 mã)
+kí tự cuối A-Z (ngoại trừ I+O là 24 mã)
+tổng nhiều nhất tương ứng với mỗi hộp là 33 mã
+
+2. Dữ liệu lên hệ thống, nếu muốn in thử thì chọn "Test Mode"
+dữ liệu sẽ không lên hệ thống 
+
+3. Khi in xong tem thì dữ liệu sẽ lên hệ thống, không thể in lại, chọn chế độ "Test Mode để in"
